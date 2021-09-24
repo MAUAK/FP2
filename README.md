@@ -26,4 +26,5 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa po
 	Gameplay:
 	Fluxo do jogo (Como será dividido): O jogo será divido por 3 fases, sendo que a cada level aparece um inimigo novo e a dificuldade aumenta (velocidade dos inimigos aumentam). Conforme for pegando powerup, o protagonista aumenta de tamanho ficando cada vez mais forte junto com seu peixe;
 	Cenário do jogo: A primeira fase se passa na floresta próximo ao rio em que o pirarucu foi encontrado. A segunda fase se passa num castelo em que monstros surgem. E a fase final se passa a margem do rio amazonas, em que o peixe será devolvido ao seu habitat;
+
 	Game world:
