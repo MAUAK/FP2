@@ -105,5 +105,39 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa po
 
 	Inteligência Artificial: Os inimigos irão surgir da direita e na esquerda “seguindo” o player;
 
-	Como os inimigos irão prejudicar o player: - Eles acertarão as costas (o peixe) do player, assim 
+	Como os inimigos irão prejudicar o player: - Eles acertarão as costas (o peixe) do player, assim ele tomará dano;
+
+	Como o jogador poderá vencê-los: O player só precisará dar um soco com sua luva de boxe nos inimigos, que assim eles morrerão;
+
+	Os inimigos possuem uma história: Eles só querem roubar o peixe valioso que está em posse do protagonista, seja para comer, vender ou pescar;
+
+	Cutscenes ou Cenas de corte: O jogo ainda não possui cenas.
+
+Informações adicionais:
+
+	Destaques do produto: É uma maneira divertida de conscientizar as pessoas de que a vida marinha está sofrendo com a poluição dos humanos, e que eles são muito importantes para o planeta Terra.
+
+	Custo de produção:
+•	
+
+
+
+
+
+
+
+
+
+Links
+	Trello:	https://trello.com/b/kqvXl8XP/the-crazy-truckers
+	Repositórios remotos: https://github.com/MAUAK/FP2
+ 
+
+Integrantes do projeto
+Stela Barboza - Game design,
+Kauam Batista - Programador, 
+Eric Silva - Game design,
+Rafael Rodrigues - Game design e
+Maria Oliveira - designer
+
 
