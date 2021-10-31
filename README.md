@@ -69,39 +69,43 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa po
 
 	Desafios: O jogador terá que proteger o peixe de pescadores, monstros ou empresários que querem roubá-lo;
 
-	Objetivo do jogo: Avançar rumo ao mar para libertar seu peixe, sempre protegendo-o dos perigos eminentes;
+	Objetivo do jogo: Proteger o peixe pelo maior tempo possível;
 
-	Progressão: Conforme for passando e chegando mais perto do mar, a quantidade de inimigo irá aumentar e sua dificuldade também;
+	Progressão: Conforme for passando o tempo e aumentando os pontos, a quantidade de inimigos irá aumentar e sua dificuldade também;
 
 	 Personagens:
 
-	Características dos personagens: Os personagens são compostos por um homem que ama muito seu peixinho-palhaço chamado ...;
+![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
+![Homem-Porco](https://user-images.githubusercontent.com/64094846/139562587-8d7d94ba-e1bc-4613-9a15-617aa917b074.png)
 
-	Características dos personagens na gameplay: Como o homem protege o peixe, ele é forte e alto, podendo matar os inimigos com um hit. Já o peixe o ajuda atordoando os inimigos e dando upgrades para seu dono;
+
+	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixe----- O Homem-porco, Timmy, e Silvio;
+
+	Características dos personagens na gameplay: Como o homem protege o peixe, ele é forte e alto, podendo matar os inimigos com um hit;
 
 	Controle dos personagens: O jogador controla o homem da direita para a esquerda. Em suas costas está o seu peixe;
 
-	Interação dos personagens: O homem ajuda o peixe protegendo e ele, e o peixe ajuda o homem atordoando os inimigos e dando upgrades ao protagonista;
+	Interação dos personagens: O homem ajuda o peixe protegendo e ele, e derrota os inimigos com socos;
 
 	Gameplay:
 
-	Fluxo do jogo (Como será dividido): O jogo será divido por 3 fases, sendo que a cada level aparece um inimigo novo e a dificuldade aumenta (velocidade dos inimigos aumentam). Conforme for pegando powerup, o protagonista aumenta de tamanho ficando cada vez mais forte junto com seu peixe;
+	Fluxo do jogo (Como será dividido): O jogo será feito em apenas uma fase, que o lutador vai enfrentando cada vez mais inimigos conforme o tempo passa;
 
-	Cenário do jogo: A primeira fase se passa na floresta próximo ao rio em que o pirarucu foi encontrado. A segunda fase se passa num castelo em que monstros surgem. E a fase final se passa a margem do rio amazonas, em que o peixe será devolvido ao seu habitat;
+	Cenário do jogo: Se passa o tempo todo na floresta amazônica;
 
-	Game world: O ambiente se passa numa floresta do Brasil muito poluída, principalmente os rios.
+	Game world: O ambiente se passa na floresta amazônica.
 
 	Game Experience: A primeira impressão do jogo seria a empatia com o homem que está querendo proteger os peixes, e o peixe que está sendo ameaçado, com os dois lutando pelos seus direitos.
 
 	Gameplay Mechanics:
 
-	Coletáveis: Itens que irá ajudar o jogador - Interagir com o power-up;
+	Coletáveis: Não possui;
 
-	Mecânica: Do protagonista: - Andar para direita e esquerda; - Pular*;
+	Mecânica: Do protagonista: - Andar para direita e esquerda, Atacar;
 
-	Coletáveis: Itens que irá ajudar o jogador: - Power-up que o peixe der a ele*;
 
 	Inimigos:
+
 
 	Inteligência Artificial: Os inimigos irão surgir da direita e na esquerda “seguindo” o player;
 
