@@ -75,10 +75,10 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa po
 
 	 Personagens:
 
-![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
 PERSONAGEM PRINCIPAL
-![Homem-Porco](https://user-images.githubusercontent.com/64094846/139562587-8d7d94ba-e1bc-4613-9a15-617aa917b074.png)
+![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
 INIMIGO 3
+![Homem-Porco](https://user-images.githubusercontent.com/64094846/139562587-8d7d94ba-e1bc-4613-9a15-617aa917b074.png)
 
 
 	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixe----- O Homem-porco, Timmy, e Silvio;
