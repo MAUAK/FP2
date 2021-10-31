@@ -79,6 +79,14 @@ PERSONAGEM PRINCIPAL
 
 ![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
 
+INIMIGO 1
+
+![Timmy](https://user-images.githubusercontent.com/64094846/139562888-a783293d-c6cb-44b8-a943-9d4e10836bc5.jpeg)
+
+INIMIGO 2
+
+![Silvio](https://user-images.githubusercontent.com/64094846/139562900-4dbd0e31-80c8-46cc-aa62-099dfd208ac7.jpeg)
+
 INIMIGO 3
 
 ![Homem-Porco](https://user-images.githubusercontent.com/64094846/139562587-8d7d94ba-e1bc-4613-9a15-617aa917b074.png)
@@ -96,7 +104,10 @@ INIMIGO 3
 
 	Fluxo do jogo (Como será dividido): O jogo será feito em apenas uma fase, que o lutador vai enfrentando cada vez mais inimigos conforme o tempo passa;
 
-	Cenário do jogo: Se passa o tempo todo na floresta amazônica;
+	Cenário do jogo: Se passa o tempo todo na margem de um rio da floresta amazônica;
+
+![Cenario]https://media.discordapp.net/attachments/812466112028868611/904176939370184745/1.JPG
+
 
 	Game world: O ambiente se passa na floresta amazônica.
 
