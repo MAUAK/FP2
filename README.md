@@ -106,7 +106,7 @@ INIMIGO 3
 
 	Cenário do jogo: Se passa o tempo todo na margem de um rio da floresta amazônica;
 
-![Cenario]https://media.discordapp.net/attachments/812466112028868611/904176939370184745/1.JPG
+![Cenario](https://media.discordapp.net/attachments/812466112028868611/904176939370184745/1.JPG)
 
 
 	Game world: O ambiente se passa na floresta amazônica.
