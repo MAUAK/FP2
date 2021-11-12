@@ -60,12 +60,12 @@ E gostem de proteger a vida marinha;
 	Faixa etária: Recomendação para maiores de 10 anos de idade de acordo com o guia de classificação da “Classind”;
 
 
-	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixe-palhaço ele decide dedicar sua vida a proteger a vida marinha;
-O jogo se passa em uma floresta onde o player é um lutador de boxe que passa por inimigos que querem roubar o peixe, impedindo que ele seja libertado no mar;
+	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida marinha;
+O jogo se passa em uma floresta onde o player é um lutador de boxe que passa por inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio;
 
 	Fluxo do Jogo:
 
-	Gênero do jogo: Segureixe é um jogo de plataforma 2D dividido em ação, história e insanidade;
+	Gênero do jogo: Segureixe é um jogo2D dividido em ação, história e insanidade;
 
 	Desafios: O jogador terá que proteger o peixe de pescadores, monstros ou empresários que querem roubá-lo;
 
@@ -79,6 +79,12 @@ PERSONAGEM PRINCIPAL
 
 ![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
 
+Créditos ao artista original(Lutador): <a href="https://br.freepik.com/vetores/pessoas">Pessoas vetor criado por vectorpocket - br.freepik.com</a>
+
+Créditos ao artista original(Skate): <a href="https://br.freepik.com/vetores/cafe">Café vetor criado por catalyststuff - br.freepik.com</a>
+
+
+
 INIMIGO 1
 
 ![Timmy](https://user-images.githubusercontent.com/64094846/139562888-a783293d-c6cb-44b8-a943-9d4e10836bc5.jpeg)
@@ -87,22 +93,28 @@ INIMIGO 2
 
 ![Silvio](https://user-images.githubusercontent.com/64094846/139562900-4dbd0e31-80c8-46cc-aa62-099dfd208ac7.jpeg)
 
+Créditos ao artista original(Nave do Silvio): <a href="https://br.freepik.com/vetores/bandeira">Bandeira vetor criado por brgfx - br.freepik.com</a>
+
+
 INIMIGO 3
 
-![Homem-Porco](https://user-images.githubusercontent.com/64094846/139562587-8d7d94ba-e1bc-4613-9a15-617aa917b074.png)
+![Pintinho Espacial](https://user-images.githubusercontent.com/64094846/141537857-522754e8-bd61-489f-b9a3-d97277ad1fdc.jpg)
+
+Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-animado">Desenho animado vetor criado por macrovector - br.freepik.com</a>
 
 
-	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixe----- O Homem-porco, Timmy, e Silvio;
 
-	Características dos personagens na gameplay: Como o homem protege o peixe, ele é forte e alto, podendo matar os inimigos com um hit;
+	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixinho Carlinhos o carregando em sua mochila, e os inimigos: O Pintinho Espacial, Timmy, e Silvio;
 
-	Controle dos personagens: O jogador controla o homem da direita para a esquerda. Em suas costas está o seu peixe;
+	Características dos personagens na gameplay: O lutador se locomove em um skate voador e acerta os inimigos com socos, o Pescador Timmy se move na horizontal dando pequenos pulos em direção ao lutador, o Empresário Silvio, que se move na horizontal em cima de uma nave-plataforma flutuante e o Pintinho Espacial que se move na horizontal andando com suas pernas longas; 
 
-	Interação dos personagens: O homem ajuda o peixe protegendo e ele, e derrota os inimigos com socos;
+	Controle dos personagens: O jogador controla o homem da direita para a esquerda. Em suas costas está o seu peixe em uma mochila;
+
+	Interação dos personagens: O homem ajuda o peixe protegendo a ele, e derrota os inimigos com socos;
 
 	Gameplay:
 
-	Fluxo do jogo (Como será dividido): O jogo será feito em apenas uma fase, que o lutador vai enfrentando cada vez mais inimigos conforme o tempo passa;
+	Fluxo do jogo (Como será dividido): O jogo será feito em apenas uma fase, que o lutador vai enfrentando inimigos e cada vez que derrota uma certa quantidade, outro tipo de inimigo surge;
 
 	Cenário do jogo: Se passa o tempo todo na margem de um rio da floresta amazônica;
 
@@ -111,25 +123,25 @@ INIMIGO 3
 
 	Game world: O ambiente se passa na floresta amazônica.
 
-	Game Experience: A primeira impressão do jogo seria a empatia com o homem que está querendo proteger os peixes, e o peixe que está sendo ameaçado, com os dois lutando pelos seus direitos.
+	Game Experience: A primeira impressão do jogo será o alto ritmo que o jogo se desenvolve, com sua trilha sonora e mecânicas, sendo intuitivo que o jogador precisa derrotar os inimigos e proteger o peixe.
 
 	Gameplay Mechanics:
 
 	Coletáveis: Não possui;
 
-	Mecânica: Do protagonista: - Andar para direita e esquerda, Atacar;
+	Mecânica: Do protagonista: Teclas A e D: Andar para direita e esquerda, Botão esquerdo do Mouse: Atacar;
 
 
 	Inimigos:
 
 
-	Inteligência Artificial: Os inimigos irão surgir da direita e na esquerda “seguindo” o player;
+	Inteligência Artificial: Os inimigos irão surgir da direita e na esquerda em linha reta;
 
-	Como os inimigos irão prejudicar o player: - Eles acertarão as costas (o peixe) do player, assim ele tomará dano;
+	Como os inimigos irão prejudicar o player: - Eles encostarão no player, assim ele tomará dano;
 
-	Como o jogador poderá vencê-los: O player só precisará dar um soco com sua luva de boxe nos inimigos, que assim eles morrerão;
+	Como o jogador poderá vencê-los: O player só precisará dar um soco com sua luva de boxe nos inimigos, que assim eles serão derrotados;
 
-	Os inimigos possuem uma história: Eles só querem roubar o peixe valioso que está em posse do protagonista, seja para comer, vender ou pescar;
+	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer, vender ou pescar;
 
 	Cutscenes ou Cenas de corte: O jogo ainda não possui cenas.
 
@@ -157,7 +169,7 @@ Integrantes do projeto
 Stela Barboza - Game design,
 Kauam Batista - Programador, 
 Eric Silva - Game design,
-Rafael Rodrigues - Game design e
-Maria Oliveira - designer
+Rafael Rodrigues - Game design
+Maria Oliveira - arte
 
 
