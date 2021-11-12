@@ -10,9 +10,9 @@ GRUPO
 (The crazy truckers)
 
 Descrição do jogo- O jogo é 2d chamado ”Segureixe”, se passa em uma 
-floresta aonde o player tem que proteger um peixe em extinção de seus inimigos.
+floresta aonde o player tem que proteger um peixe de seus inimigos.
 
-Gênero- Ação
+Gênero- Ação e Aventura
 
 Mecânicas- O player se movimentando horizontalmente, já os inimigos 
 spawning na esquerda e direita do player, também possui animações e uma 
@@ -20,7 +20,7 @@ cutscene que encerra o jogo no final.
 
 História do jogo- O jogo se passa em uma floresta aonde o player é um 
 lutador de boxe que passa por inimigos que querem roubar o peixe, 
-impedindo que ele seja libertado no mar.
+impedindo que ele seja libertado no rio sem poluição.
 
 Diferencial- É a maneira que foi incluído a conscientização de preservar a 
 natureza, não deixando de ser um jogo de ação.
@@ -30,9 +30,7 @@ Plataforma- 2D
 Público alvo- O público alvo esperado para SEGUREIXE são pessoas acima 
 de 10 anos que tenham interesse em jogos 2D.
 
-Classificação indicativa- A classificação indicativa esperada para 
-SEGUREIXE é ser não recomendado para menores de 10 anos. O jogo possuirá 
-os descritores Violência.
+Classificação indicativa- A classificação indicativa do jogo Segureixe é para maiores de 10 anos - Conteúdo violento ou linguagem inapropriada para crianças, ainda que em menor intensidade.
 
 Orçamento do jogo e equipe - 22.500, A equipe de desenvolvimento 
 do jogo é constituída por 5 pessoas. 1 programador e 1 artistas e 3 game 
@@ -43,8 +41,10 @@ Cronograma- 3 meses(inicialmente)
 Objetivo sustentável da ONU- baseado na “vida na água(14)” um dos 
 Objetivos de Desenvolvimento Sustentável da (Onu).
 
-Grupo- Stela Barboza- Game design, Kauam Batista-Programador, 
-Eric Silva-Game design, Rafael Rodrigues-Game design e
+Grupo- Stela Barboza- Game design,
+Kauam Batista-Programador, 
+Eric Silva-Game design,
+Rafael Rodrigues-Game design
 Maria Oliveira-designer
 
 -------------------------------------------------------------------------------------------
@@ -57,7 +57,7 @@ GDD
 E gostem de proteger a vida marinha;
 
 
-	Faixa etária: Recomendação para maiores de 10 anos de idade de acordo com o guia de classificação da “Classind”;
+	Faixa etária: Recomendação para maiores de 10 anos de idade - Conteúdo violento ou linguagem inapropriada para crianças, ainda que em menor intensidade. de acordo com o guia de classificação da “Classind”;
 
 
 	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida marinha;
@@ -101,6 +101,7 @@ INIMIGO 3
 ![Pintinho Espacial](https://user-images.githubusercontent.com/64094846/141537857-522754e8-bd61-489f-b9a3-d97277ad1fdc.jpg)
 
 Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-animado">Desenho animado vetor criado por macrovector - br.freepik.com</a>
+
 
 
 
