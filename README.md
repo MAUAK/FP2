@@ -15,8 +15,7 @@ floresta aonde o player tem que proteger um peixe de seus inimigos.
 Gênero- Ação e Aventura
 
 Mecânicas- O player se movimentando horizontalmente, já os inimigos 
-spawning na esquerda e direita do player, também possui animações e uma 
-cutscene que encerra o jogo no final.
+spawning na esquerda e direita do player, também possui animações.
 
 História do jogo- O jogo se passa em uma floresta aonde o player é um 
 lutador de boxe que passa por inimigos que querem roubar o peixe, 
@@ -45,7 +44,7 @@ Grupo- Stela Barboza- Game design,
 Kauam Batista-Programador, 
 Eric Silva-Game design,
 Rafael Rodrigues-Game design
-Maria Oliveira-designer
+Maria Oliveira-artista
 
 -------------------------------------------------------------------------------------------
 
@@ -61,15 +60,15 @@ E gostem de proteger a vida marinha;
 
 
 	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida marinha;
-O jogo se passa em uma floresta onde o player é um lutador de boxe que passa por inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio;
+O jogo se passa em uma floresta onde o player é um lutador de boxe que passa pelos mais variados inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio;
 
 	Fluxo do Jogo:
 
 	Gênero do jogo: Segureixe é um jogo2D dividido em ação, história e insanidade;
 
-	Desafios: O jogador terá que proteger o peixe de pescadores, monstros ou empresários que querem roubá-lo;
+	Desafios: O jogador terá que proteger o peixe de pescadores e criaturas que querem roubá-lo;
 
-	Objetivo do jogo: Proteger o peixe pelo maior tempo possível;
+	Objetivo do jogo: Proteger o peixe pelo maior tempo possível e liberta-lo no rio sem poluição;
 
 	Progressão: Conforme for passando o tempo e aumentando os pontos, a quantidade de inimigos irá aumentar e sua dificuldade também;
 
@@ -77,11 +76,10 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa po
 
 PERSONAGEM PRINCIPAL
 
-![LutadorRonaldo](https://user-images.githubusercontent.com/64094846/139562590-69612abe-9913-46c8-a0ca-017d1cbfa3f8.png)
+![lutador2](https://user-images.githubusercontent.com/64094846/144345081-781ade6d-34f4-483e-8a1a-5f7b9637f229.png)
 
-Créditos ao artista original(Lutador): <a href="https://br.freepik.com/vetores/pessoas">Pessoas vetor criado por vectorpocket - br.freepik.com</a>
+Créditos ao artista original(Usado de base pra nosso persoangem): <a href="https://br.freepik.com/vetores/pessoas">Pessoas vetor criado por vectorpocket - br.freepik.com</a>
 
-Créditos ao artista original(Skate): <a href="https://br.freepik.com/vetores/cafe">Café vetor criado por catalyststuff - br.freepik.com</a>
 
 
 
@@ -91,9 +89,9 @@ INIMIGO 1
 
 INIMIGO 2
 
-![Silvio](https://user-images.githubusercontent.com/64094846/139562900-4dbd0e31-80c8-46cc-aa62-099dfd208ac7.jpeg)
+![lula2](https://user-images.githubusercontent.com/64094846/144345295-5baa7fe5-78b2-4678-9ce7-3f60eec8f08d.png)
 
-Créditos ao artista original(Nave do Silvio): <a href="https://br.freepik.com/vetores/bandeira">Bandeira vetor criado por brgfx - br.freepik.com</a>
+Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Monster // https://dribbble.com/lukeroberts 
 
 
 INIMIGO 3
@@ -105,11 +103,11 @@ Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-a
 
 
 
-	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixinho Carlinhos o carregando em sua mochila, e os inimigos: O Pintinho Espacial, Timmy, e Silvio;
+	Características dos personagens: Os personagens são compostos por um lutador de boxe chamado Ronaldo que protege seu peixinho Carlinhos o carregando em sua mochila, e os inimigos: O Pintinho Espacial, Timmy, e a lula que corre, Lulão;
 
-	Características dos personagens na gameplay: O lutador se locomove em um skate voador e acerta os inimigos com socos, o Pescador Timmy se move na horizontal dando pequenos pulos em direção ao lutador, o Empresário Silvio, que se move na horizontal em cima de uma nave-plataforma flutuante e o Pintinho Espacial que se move na horizontal andando com suas pernas longas; 
+	Características dos personagens na gameplay: O lutador se locomove andando e correndo e acerta os inimigos com socos, o Pescador Timmy se move na horizontal dando pequenos pulos em direção ao lutador, o Lulão, que se move na horizontal correndo mais rápido que os outros e o Pintinho Espacial que se move na horizontal andando com suas pernas longas; 
 
-	Controle dos personagens: O jogador controla o homem da direita para a esquerda. Em suas costas está o seu peixe em uma mochila;
+	Controle dos personagens: O jogador controla o lutador da direita para a esquerda. Em suas costas está o seu peixe em uma mochila;
 
 	Interação dos personagens: O homem ajuda o peixe protegendo a ele, e derrota os inimigos com socos;
 
@@ -142,7 +140,7 @@ Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-a
 
 	Como o jogador poderá vencê-los: O player só precisará dar um soco com sua luva de boxe nos inimigos, que assim eles serão derrotados;
 
-	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer, vender ou pescar;
+	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer ou pescar;
 
 	Cutscenes ou Cenas de corte: O jogo ainda não possui cenas.
 
