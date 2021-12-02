@@ -62,7 +62,7 @@ E gostem de proteger a vida marinha;
 	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida marinha;
 O jogo se passa em uma floresta onde o player é um lutador de boxe que passa pelos mais variados inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio;
 
-	Fluxo do Jogo:
+	Fluxo do Jogo: Menu principal - Tela de gameplay - Tela de Game Win/Game Lose
 
 	Gênero do jogo: Segureixe é um jogo2D dividido em ação, história e insanidade;
 
@@ -72,7 +72,7 @@ O jogo se passa em uma floresta onde o player é um lutador de boxe que passa pe
 
 	Progressão: Conforme for passando o tempo e aumentando os pontos, a quantidade de inimigos irá aumentar e sua dificuldade também;
 
-	 Personagens:
+Personagens:
 
 PERSONAGEM PRINCIPAL
 
@@ -114,7 +114,7 @@ Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Mo
 
 	Interação dos personagens: O homem ajuda o peixe protegendo a ele, e derrota os inimigos com socos;
 
-	Gameplay:
+Gameplay:
 
 	Fluxo do jogo (Como será dividido): O jogo será feito em apenas uma fase, que o lutador vai enfrentando inimigos e cada vez que derrota uma certa quantidade, outro tipo de inimigo surge;
 
@@ -128,14 +128,14 @@ Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Mo
 	Game Experience: A primeira impressão do jogo será o alto ritmo que o jogo se desenvolve, com sua trilha sonora e mecânicas, sendo intuitivo que o jogador precisa derrotar os inimigos e proteger o peixe.
 
 
-	Gameplay Mechanics:
+Gameplay Mechanics:
 
 	Coletáveis: Não possui;
 
 	Mecânica: Do protagonista: Teclas A e D: Andar para direita e esquerda, Botão esquerdo do Mouse: Atacar;
 
 
-	Inimigos:
+Inimigos:
 
 
 	Inteligência Artificial: Os inimigos irão surgir da direita e na esquerda em linha reta;
@@ -146,13 +146,13 @@ Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Mo
 
 	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer ou pescar;
 
- Cenas de corte, materiais de bônus e concorrência: 
+Cenas de corte, materiais de bônus e concorrência: 
 
-Música do Menu: Badass - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/badass)
+ Música do Menu: Badass - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/badass)
 
-Música durante toda a Gameplay: Moose - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/moose)
+ Música durante toda a Gameplay: Moose - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/moose)
 
-Música dos créditos: The Greatest - All Good Folks - (https://uppbeat.io/track/all-good-folks/the-greatest)
+ Música dos créditos: The Greatest - All Good Folks - (https://uppbeat.io/track/all-good-folks/the-greatest)
 
 Informações adicionais:
 
