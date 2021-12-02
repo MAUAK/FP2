@@ -31,7 +31,7 @@ de 10 anos que tenham interesse em jogos 2D.
 
 Classificação indicativa- A classificação indicativa do jogo Segureixe é para maiores de 10 anos - Conteúdo violento ou linguagem inapropriada para crianças, ainda que em menor intensidade.
 
-Orçamento do jogo e equipe - 22.500, A equipe de desenvolvimento 
+Orçamento do jogo e equipe - A equipe de desenvolvimento 
 do jogo é constituída por 5 pessoas. 1 programador e 1 artistas e 3 game 
 design.
 
@@ -59,8 +59,8 @@ E gostem de proteger a vida marinha;
 	Faixa etária: Recomendação para maiores de 10 anos de idade - Conteúdo violento ou linguagem inapropriada para crianças, ainda que em menor intensidade. de acordo com o guia de classificação da “Classind”;
 
 
-	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida marinha;
-O jogo se passa em uma floresta onde o player é um lutador de boxe que passa pelos mais variados inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio;
+	História (Resumo): No começo dos anos 2000 um homem fica completamente irritado com as pessoas que poluem os mares e os rios, e após conhecer um peixinho ele decide dedicar sua vida a proteger a vida na água;
+O jogo se passa em uma floresta onde o player é um lutador de boxe que passa pelos mais variados inimigos que querem roubar o peixe, impedindo que ele seja libertado no rio limpo;
 
 	Fluxo do Jogo: Menu principal - Tela de gameplay - Tela de Game Win/Game Lose
 
