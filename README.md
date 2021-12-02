@@ -87,19 +87,22 @@ INIMIGO 1
 
 ![Timmy](https://user-images.githubusercontent.com/64094846/139562888-a783293d-c6cb-44b8-a943-9d4e10836bc5.jpeg)
 
+
 INIMIGO 2
+
+![Pintinho Espacial](https://user-images.githubusercontent.com/64094846/141537857-522754e8-bd61-489f-b9a3-d97277ad1fdc.jpg)
+
+Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-animado">Desenho animado vetor criado por macrovector - br.freepik.com</a>
+
+
+INIMIGO 3
 
 ![lula2](https://user-images.githubusercontent.com/64094846/144345295-5baa7fe5-78b2-4678-9ce7-3f60eec8f08d.png)
 
 Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Monster // https://dribbble.com/lukeroberts 
 
 
-INIMIGO 3
-
-![Pintinho Espacial](https://user-images.githubusercontent.com/64094846/141537857-522754e8-bd61-489f-b9a3-d97277ad1fdc.jpg)
-
-Créditos ao artista original: <a href="https://br.freepik.com/vetores/desenho-animado">Desenho animado vetor criado por macrovector - br.freepik.com</a>
-
+.
 
 
 
