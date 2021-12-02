@@ -127,6 +127,7 @@ Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Mo
 
 	Game Experience: A primeira impressão do jogo será o alto ritmo que o jogo se desenvolve, com sua trilha sonora e mecânicas, sendo intuitivo que o jogador precisa derrotar os inimigos e proteger o peixe.
 
+
 	Gameplay Mechanics:
 
 	Coletáveis: Não possui;
@@ -145,7 +146,13 @@ Créditos ao artista original: https://dribbble.com/shots/5328253-Running-Sea-Mo
 
 	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer ou pescar;
 
-	Cutscenes ou Cenas de corte: O jogo ainda não possui cenas.
+ Cenas de corte, materiais de bônus e concorrência: 
+
+Música do Menu: Badass - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/badass)
+
+Música durante toda a Gameplay: Moose - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/moose)
+
+Música dos créditos: The Greatest - All Good Folks - (https://uppbeat.io/track/all-good-folks/the-greatest)
 
 Informações adicionais:
 
@@ -171,7 +178,7 @@ Integrantes do projeto
 Stela Barboza - Game design,
 Kauam Batista - Programador, 
 Eric Silva - Game design,
-Rafael Rodrigues - Game design
+Rafael Rodrigues - Game design,
 Maria Oliveira - arte
 
 
