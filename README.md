@@ -150,6 +150,16 @@ Inimigos:
 
 Cenas de corte, materiais de bônus e concorrência: 
 
+ Caminhão do logo:
+
+![45882](https://user-images.githubusercontent.com/64094846/144532577-1bbe6b28-d486-4fa3-a4d8-55ec00550ab9.png)
+
+Créditos: <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+![silhuetas-chama-decorativos_23-2147609800](https://user-images.githubusercontent.com/64094846/144532948-37c5195b-2e31-4216-95e9-0749cbcfa9fa.jpg)
+
+Créditos(fogo): <a href="https://br.freepik.com/fotos-vetores-gratis/abstrato">Abstrato vetor criado por freepik - br.freepik.com</a>
+
  Efeitos: https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565
 
  Música do Menu: Badass - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/badass)
