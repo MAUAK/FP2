@@ -122,6 +122,8 @@ Gameplay:
 
 ![Cenario](https://media.discordapp.net/attachments/812466112028868611/904176939370184745/1.JPG)
 
+https://assetstore.unity.com/packages/2d/textures-materials/forest-road-background-146496
+
 
 	Game world: O ambiente se passa na floresta amazônica.
 
@@ -147,6 +149,8 @@ Inimigos:
 	Os inimigos possuem uma história: Eles só querem roubar o amigo peixe do protagonista, seja para comer ou pescar;
 
 Cenas de corte, materiais de bônus e concorrência: 
+
+ Efeitos: https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565
 
  Música do Menu: Badass - Benjamin Tissot (also known as Bensound) - (https://www.bensound.com/royalty-free-music/track/badass)
 
